@@ -1,6 +1,6 @@
 # Trilha de Conhecimento n8n
 
-Esta trilha foi desenvolvida para orientar o aprendizado do n8n, desde os conceitos básicos até os tópicos mais avançados. Cada módulo contém objetivos, explicações, sugestões de conteúdos e links para vídeos, tutoriais, documentações e comunidades. Sinta-se à vontade para substituir os campos **[INSERIR LINK/RECURSO]** pelos seus próprios materiais ou referências que achar relevantes.
+Esta trilha foi desenvolvida para orientar o aprendizado do n8n, desde os conceitos básicos até os tópicos mais avançados. Cada módulo contém objetivos, explicações, sugestões de conteúdos e links para vídeos, tutoriais, documentações e comunidades.
 
 ---
 
@@ -12,8 +12,7 @@ Esta trilha foi desenvolvida para orientar o aprendizado do n8n, desde os concei
 - **Histórico e Diferenciais:**  
   Comparado a ferramentas como Zapier e Make, o n8n oferece maior flexibilidade e personalização, permitindo hospedagem própria (self-hosted) e customizações avançadas.
 - **Conteúdos Sugeridos:**  
-  - Vídeo "[n8n p/ iniciantes – O Guia Completo](https://www.youtube.com/watch?v=1vqpoMwZZtk)"  
-    :contentReference[oaicite:0]{index=0}  
+  - Vídeo "[#1 - O que é N8N? - Curso Completo de N8N: Do Básico à Inteligência Artificial](https://www.youtube.com/watch?v=Tkqtd5zVkYc&list=PLPH5yL5ZVjjW7cRT4COVLiQqujaN3sHlG&index=1)"  
   - Artigo introdutório na [documentação oficial do n8n](https://docs.n8n.io/)
 
 ---
@@ -25,15 +24,14 @@ Esta trilha foi desenvolvida para orientar o aprendizado do n8n, desde os concei
   - **Self-hosted:** Instale via npm, Docker ou diretamente no seu servidor.
   - **n8n.cloud:** Solução SaaS que facilita a configuração e a escalabilidade.
 - **Conteúdos Sugeridos:**  
-  - Vídeo "[Curso GRATUITO de N8N Para Iniciantes – Versão Completa](https://www.youtube.com/watch?v=RJ6mqfm0UyQ)"  
-    :contentReference[oaicite:1]{index=1}  
-  - Guia oficial de instalação na [documentação do n8n](https://docs.n8n.io/getting-started/installation/)
+  - Vídeo "[#2 - Instalação via Docker - Curso Completo de N8N: Do Básico à Inteligência Artificial](https://www.youtube.com/watch?v=8hQ1u0TAyAc&list=PLPH5yL5ZVjjW7cRT4COVLiQqujaN3sHlG&index=2)"  
+  - Guia oficial de instalação na [documentação do n8n](https://docs.n8n.io/hosting/installation/docker/)
 
 ### Configuração Inicial
 - **Passos:**  
   - Configuração de variáveis de ambiente, autenticação e definição do URL base.
   - Configuração do banco de dados (se for self-hosted) e ajustes de segurança.
-- **[INSERIR LINK/RECURSO]:** Adicione aqui seu tutorial ou vídeo preferido sobre configuração.
+  - Vídeo "[#2.1 - Instalação com 1 só comando - Curso Completo de N8N: Do Básico à Inteligência Artificial](https://www.youtube.com/watch?v=Sy3UCrF5qbA&list=PLPH5yL5ZVjjW7cRT4COVLiQqujaN3sHlG&index=3)"  
 
 ---
 
@@ -44,8 +42,7 @@ Esta trilha foi desenvolvida para orientar o aprendizado do n8n, desde os concei
   - Conheça o editor visual do n8n, onde você arrasta e solta nodes.
   - Entenda a biblioteca de nodes e os componentes da interface (painel de controle, histórico de execuções, etc.).
 - **Conteúdos Sugeridos:**  
-  - Vídeo "[Tutorial N8N | Guia Completo Automação N8N para Iniciantes](https://www.youtube.com/watch?v=OUYztfaIH4M)"  
-    :contentReference[oaicite:2]{index=2}
+  - Playlist "[Curso Completo de N8N: Do Básico à Inteligência Artificial](https://www.youtube.com/playlist?list=PLPH5yL5ZVjjW7cRT4COVLiQqujaN3sHlG)"  
 
 ### Construindo um Workflow Básico
 - **Passo a Passo:**
