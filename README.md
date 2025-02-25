@@ -55,7 +55,7 @@ Esta trilha foi desenvolvida para orientar o aprendizado do n8n, desde os concei
 - **Dicas Práticas:**  
   - Utilize templates pré-configurados para ganhar agilidade.
   - Teste cada etapa individualmente para identificar possíveis erros.
-- **[INSERIR LINK/RECURSO]:** Acrescente aqui exemplos práticos ou tutoriais de workflows básicos.
+- Comunidade "[AI Automation Society](https://www.skool.com/ai-automation-society)"
 
 ---
 
@@ -66,7 +66,7 @@ Esta trilha foi desenvolvida para orientar o aprendizado do n8n, desde os concei
   - Aprenda a usar expressões para transformar e filtrar dados dentro dos nodes.
 - **Exemplos:**  
   - Extração de informações de um JSON, formatação de datas e concatenação de strings.
-- **[INSERIR LINK/RECURSO]:** Vídeo ou artigo explicando o uso de expressões no n8n.
+- Vídeo "[Como converter dados no n8n](https://www.youtube.com/watch?v=_CzeB-eYB70)"
 
 ### Criação de Funções Personalizadas
 - **Code Node:**  
@@ -75,7 +75,6 @@ Esta trilha foi desenvolvida para orientar o aprendizado do n8n, desde os concei
   - Conecte seu workflow a APIs externas para buscar ou enviar informações.
 - **Conteúdos Sugeridos:**  
   - Vídeo "[Curso Completo de N8N: Do Básico à IA](https://www.youtube.com/watch?v=cabAQj_e-Ww)"  
-    :contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -88,7 +87,7 @@ Esta trilha foi desenvolvida para orientar o aprendizado do n8n, desde os concei
 - **Boas Práticas:**  
   - Nomeie nodes e conexões de forma clara.
   - Documente o fluxo e mantenha um versionamento dos workflows.
-- **[INSERIR LINK/RECURSO]:** Acrescente links para artigos ou vídeos com dicas avançadas de organização.
+  - Vídeo "[I Built the Ultimate Team of AI Agents in n8n With No Code (Free Template)]([https://www.youtube.com/watch?v=cabAQj_e-Ww](https://www.youtube.com/watch?v=9FuNtfsnRNo&t=1266s))"  
 
 ### Automatizações com IA e Custom Nodes
 - **Uso de AI Agents:**  
@@ -99,9 +98,7 @@ Esta trilha foi desenvolvida para orientar o aprendizado do n8n, desde os concei
   - Agentes que monitoram redes sociais ou geram relatórios.
 - **Conteúdos Sugeridos:**  
   - Playlist "[n8n Advanced Course](https://www.youtube.com/playlist?list=PLlET0GsrLUL5bxmx5c1H1Ms_OtOPYZIEG)" no YouTube  
-    :contentReference[oaicite:4]{index=4}  
   - Vídeo "[Create Your First AI Agent with N8n – Complete Tutorial for Beginners](https://www.youtube.com/watch?v=fsOl5l_zKXI)"  
-    :contentReference[oaicite:5]{index=5}
 
 ---
 
@@ -114,14 +111,14 @@ Esta trilha foi desenvolvida para orientar o aprendizado do n8n, desde os concei
   - Automatização de atualizações de planilhas.
   - Notificações automáticas para equipes via Slack ou Telegram.
 - **Conteúdos Sugeridos:**  
-  - Tutorial de integração com a API do WhatsApp  
-    [Confira no Instagram](https://www.instagram.com/autoticbrasil/p/Ci-k3rsoByj/) :contentReference[oaicite:6]{index=6}
+  - Canal "[Nate Herk | AI Automation](https://www.youtube.com/@nateherk/videos)"   
 
 ### Estudos de Caso e Projetos Reais
 - **Casos Práticos:**  
   - Automação de processos de marketing digital.
   - Fluxos de trabalho para gestão de leads e atendimento.
-- **[INSERIR LINK/RECURSO]:** Insira links para estudos de caso ou depoimentos de usuários que aplicaram o n8n em projetos reais.
+- Vídeo "[Crie este Micro-Saas em 1 Hora com N8N + IA (neste nicho lucrativo)](https://www.youtube.com/watch?v=VeP_yOShfeY)"   
+
 
 ---
 
@@ -130,16 +127,11 @@ Esta trilha foi desenvolvida para orientar o aprendizado do n8n, desde os concei
 ### Participando da Comunidade
 - **Fórum Oficial:**  
   - Junte-se à [Comunidade n8n](https://community.n8n.io/) para tirar dúvidas, compartilhar experiências e aprender com outros usuários.  
-    :contentReference[oaicite:7]{index=7}
 - **Canais e Redes Sociais:**  
   - **YouTube:**  
-    Pesquise por “n8n Tutorials” ou acesse playlists especializadas, como a [playlist de tutoriais](https://www.youtube.com/playlist?list=PLlET0GsrLUL5HKJk1rb7t32sAs_iAlpZe)  
-    :contentReference[oaicite:8]{index=8}
-  - **Instagram:**  
-    Siga canais como “Autotic Brasil” para dicas rápidas e novidades.
+    Pesquise por “n8n Tutorials” ou acesse canais especializados, como o [Nate Herk | AI Automation](https://www.youtube.com/@nateherk/videos)  
 - **Cursos e Webinars:**  
   - Fique atento a cursos gratuitos e lives da comunidade, como a “[Live da Comunidade #002 - Os Melhores Workflows N8N com IA](https://www.youtube.com/watch?v=bQ3q9uzk19I)”.  
-    :contentReference[oaicite:9]{index=9}
 
 ### Documentação e Repositórios
 - **Documentação Oficial:**  
@@ -158,23 +150,7 @@ Esta trilha foi desenvolvida para orientar o aprendizado do n8n, desde os concei
   - Implemente rotinas de captura e tratamento de erros para garantir que as automações funcionem sem interrupções.
 - **Segurança e Monitoramento:**  
   - Configure logs, notificações e monitore as execuções para detectar falhas rapidamente.
-- **[INSERIR LINK/RECURSO]:** Adicione aqui artigos ou vídeos com dicas avançadas e estudos de melhores práticas.
 
 ### O Futuro do n8n
 - **Evolução da Plataforma:**  
   - O n8n continua evoluindo com a contribuição da comunidade, novos nodes e integrações com IA.
-- **Inovações:**  
-  - Esteja atento a novidades, como custom nodes, integração com plataformas emergentes e melhorias de performance.
-
----
-
-## 9. Conclusão
-
-Você agora possui uma trilha completa para dominar o n8n – desde os fundamentos até as implementações mais avançadas e personalizadas. O ideal é praticar criando seus próprios workflows, explorar a comunidade e se manter atualizado com as novidades da plataforma. Lembre-se de que a automação é uma ferramenta poderosa para aumentar a eficiência, reduzir erros e liberar tempo para tarefas estratégicas.
-
----
-
-> **Nota:**  
-> Esta trilha é um guia dinâmico. Substitua os campos **[INSERIR LINK/RECURSO]** com os materiais que você mais confia ou que considerar relevantes para o seu aprendizado.
-
-Boa jornada na automação com n8n!
