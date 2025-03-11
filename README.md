@@ -111,7 +111,8 @@ Esta trilha foi desenvolvida para orientar o aprendizado do n8n, desde os concei
   - Automatização de atualizações de planilhas.
   - Notificações automáticas para equipes via Slack ou Telegram.
 - **Conteúdos Sugeridos:**  
-  - Canal "[Nate Herk | AI Automation](https://www.youtube.com/@nateherk/videos)"   
+  - Canal "[Nate Herk | AI Automation](https://www.youtube.com/@nateherk)"
+  - Canal "[Cole Medin](https://www.youtube.com/@ColeMedin)" 
 
 ### Estudos de Caso e Projetos Reais
 - **Casos Práticos:**  
@@ -129,7 +130,7 @@ Esta trilha foi desenvolvida para orientar o aprendizado do n8n, desde os concei
   - Junte-se à [Comunidade n8n](https://community.n8n.io/) para tirar dúvidas, compartilhar experiências e aprender com outros usuários.  
 - **Canais e Redes Sociais:**  
   - **YouTube:**  
-    Pesquise por “n8n Tutorials” ou acesse canais especializados, como o [Nate Herk | AI Automation](https://www.youtube.com/@nateherk/videos)  
+    Pesquise por “n8n Tutorials” ou acesse canais especializados, como o [Nate Herk | AI Automation](https://www.youtube.com/@nateherk) e [Cole Medin](https://www.youtube.com/@ColeMedin)  
 - **Cursos e Webinars:**  
   - Fique atento a cursos gratuitos e lives da comunidade, como a “[Live da Comunidade #002 - Os Melhores Workflows N8N com IA](https://www.youtube.com/watch?v=bQ3q9uzk19I)”.  
 
